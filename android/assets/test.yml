@@ -1,0 +1,9 @@
+!yml.Camera
+position: [10,10,10]
+lookat: [0,0,0]
+---
+!yml.Box
+id: b1
+position: [0,0,0]
+size: [10,2,10]
+
